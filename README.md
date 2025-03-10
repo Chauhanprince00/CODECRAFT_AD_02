@@ -6,10 +6,10 @@ A **simple yet powerful To-Do List app** built with **Kotlin**, featuring **Lott
 
 ## 📌 Overview
 
-📋 **Task Management** – Easily add, update, and delete tasks from your to-do list.
-✨ **Lottie Splash Screen** – Beautifully animated introduction for a professional feel.
-🎨 **User-Friendly UI Design** – Clean, minimalistic, and straightforward interface.
-📲 **Smooth Navigation** – Effortless task management with intuitive controls.
+📋 **Task Management** – Easily add, update, and delete tasks from your to-do list.    
+✨ **Lottie Splash Screen** – Beautifully animated introduction for a professional feel.   
+🎨 **User-Friendly UI Design** – Clean, minimalistic, and straightforward interface.   
+📲 **Smooth Navigation** – Effortless task management with intuitive controls.   
 
 ---
 
