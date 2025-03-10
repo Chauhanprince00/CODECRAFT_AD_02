@@ -6,10 +6,10 @@ A **simple yet powerful To-Do List app** built with **Kotlin**, featuring **Lott
 
 ## 📌 Overview
 
-📋 **Task Management** – Easily add, update, and delete tasks from your to-do list.    
-✨ **Lottie Splash Screen** – Beautifully animated introduction for a professional feel.   
-🎨 **User-Friendly UI Design** – Clean, minimalistic, and straightforward interface.   
-📲 **Smooth Navigation** – Effortless task management with intuitive controls.   
+📋 **Task Management** – Easily add, update, and delete tasks from your to-do list.
+✨ **Lottie Splash Screen** – Beautifully animated introduction for a professional feel.
+🎨 **User-Friendly UI Design** – Clean, minimalistic, and straightforward interface.
+📲 **Smooth Navigation** – Effortless task management with intuitive controls.
 
 ---
 
@@ -22,7 +22,6 @@ A **simple yet powerful To-Do List app** built with **Kotlin**, featuring **Lott
   <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_02/blob/master/Screenshot_20250310_122337.png" width="250">
   <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_02/blob/master/Screenshot_20250310_122352.png" width="250">
 </p>  
-
 ---
 
 ## 🚀 Tech Stack
@@ -30,7 +29,7 @@ A **simple yet powerful To-Do List app** built with **Kotlin**, featuring **Lott
 🛠 **Language:** Kotlin  
 🎨 **UI Design:** XML with ConstraintLayout  
 🔄 **Animations:** Lottie (For Splash Screen)  
-💾 **Database:** SQLite (Or any database you prefer)  
+💾 **Database:** SQLite  
 
 ---
 
